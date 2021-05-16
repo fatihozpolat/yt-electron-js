@@ -1,6 +1,5 @@
 # yt-electron-js
 
-Electron, Vuejs, Vuetify, ytsr, ytdl-core kullanarak yapılmıştır.
 ## Projenin yapımında kullanılanlar:
 - [Vue CLI Plugin Electron Builder](https://github.com/nklayman/vue-cli-plugin-electron-builder)
 - [Electron](https://github.com/electron/electron)
@@ -48,7 +47,7 @@ npm run electron:serve
 npm run electron:build
 ```
 
-### Projenin derlenmiş hali
+### Proje build edilince setup yolu
 ```
 dist_electron\yt-electron-js Setup 0.1.0.exe
 ```

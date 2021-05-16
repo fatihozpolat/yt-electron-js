@@ -9,6 +9,11 @@
 - [ytdl-core](https://github.com/fent/node-ytdl-core)
 - [vue-core-video-player](https://github.com/core-player/vue-core-video-player)
 
+```
+projeyi uygulama haline getirirseniz ilk açılışta boş bir sayfa geliyor yukardan
+YT ELECTRON yazısına tıklayarak ana sayfaya gidebilirsiniz.
+```
+
 ## Yapılanlar
 - [x] Video arama
 - [x] Video indirme
